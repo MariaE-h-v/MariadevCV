@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    background-color: #D6CDA4;
+}
+h1{
+    margin: 200px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #B4E197;
+}
+h2{
+    margin-top: 5px auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #83BD75;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.Name{
+    background-color: #5F7161;
+    padding: 20px;
+    color: #D6CDA4;
+    height: 700px;
+}
+.img-front{
+    opacity: 0.1;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top:0;
+    width: 100%;
+    height: 750px;
+    visibility: hidden;
+}
+.icons{
+    width: 100px;
+    position: absolute;
+}
+.icons2{
+    width: 100px;
+    position: absolute;
+    left: 30px;
+}
+.icons3{
+    width: 100px;
+    position: absolute;
+    bottom: 30px;
+}
+.icons4{
+    width: 100px;
+    position: absolute;
+    right: 30px;
+}
+.icons5{
+    width: 100px;
+    position: absolute;
+    left: 300px;
+    top:100px;
+}
+.icons6{
+    width: 100px;
+    position: absolute;
+    left: 300px;
+    bottom: 100px;
+}
+.icons7{
+    width: 100px;
+    position: absolute;
+    right: 300px;
+    bottom: 100px;
+}
+.icons8{
+    width: 100px;
+    position: absolute;
+    right: 200px;
+}
+.icons9{
+    width: 100px;
+    position: absolute;
+    left: 150px;
+    top:300px;
+}
+.icons10{
+    width: 100px;
+    position: absolute;
+    left: 30px;
+    top:350px;
+}
+.icons11{
+    width: 100px;
+    position: absolute;
+    left: 400px;
+    top:350px;
+}
+.icons12{
+    width: 100px;
+    position: absolute;
+    right: 400px;
+    top:100px;
+}
+.icons13{
+    width: 100px;
+    position: absolute;
+    left: 500px;
+    top:100px;  
+}
+.icons14{
+    width: 100px;
+    position: absolute;
+    left: 500px;
+    bottom:100px;  
+}
+.icons15{
+    width: 100px;
+    position: absolute;
+    right: 400px;
+    bottom:300px;  
+}
+.icons16{
+    width: 100px;
+    position: absolute;
+    right: 150px;
+    top:200px;  
+}
+.icons17{
+    width: 100px;
+    position: absolute;
+    left: 100px;
+    top:150px;  
+}
